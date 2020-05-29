@@ -9,13 +9,23 @@ run it with python with administration rights
 Then use the following shortcuts for greek language:
 
 αα   + space = ά
+
 εε   + space = έ
+
 ηη   + space = ή
+
 ιι   + space = ί
+
 ιιι  + space = ϊ
+
 ιιιι + space = ΐ
+
 οο   + space = ό
+
 ωω   + space = ώ
+
 υυ   + space = ύ
+
 uuu  + space = ϋ
+
 υυυυ + space = ΰ
